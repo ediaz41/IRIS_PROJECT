@@ -1,4 +1,5 @@
 # 🌸 Proyecto de Clasificación Iris — Streamlit
+# ERNESTO DIAZ - NICOLLE ALGARIN
 
 Este proyecto implementa un clasificador de flores Iris usando Random Forest y un **panel interactivo en Streamlit que permite:
 

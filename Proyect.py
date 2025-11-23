@@ -38,7 +38,7 @@ st.title("🌸 Clasificación de Iris — Proyecto")
 # Sidebar: metadata y parámetros
 # -------------------------
 st.sidebar.header("Información del proyecto / Equipo")
-team_names = st.sidebar.text_area("Nombres del equipo (separa por comas)", value="Nombre1, Nombre2", help="Escribe los nombres de los miembros del equipo tal como deben aparecer en el repo y la presentación.")
+team_names = st.sidebar.text_area("Nombres del equipo (separa por comas)", value="ERNESTO DIAZ, NICOLLE ALGARIN", help="Escribe los nombres de los miembros del equipo tal como deben aparecer en el repo y la presentación.")
 video_link = st.sidebar.text_input("Enlace a la presentación en video (opcional)", value="", help="Pega el enlace de tu video (YouTube/Drive).")
 
 st.sidebar.markdown("---")
